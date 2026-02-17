@@ -3,10 +3,6 @@
 This repository contains the built files for a static web project (CTF).  
 It includes all frontend assets such as HTML, CSS, JavaScript, and compressed files for deployment.
 
-## 🔗 Live Demo
-(Enable GitHub Pages and add your link here)
-Example: https://abhinaya-bolishetti.github.io/CTF/
-
 ## 📁 Project Structure
 
 - `index.html` – Main entry point  
@@ -46,30 +42,6 @@ This project can be deployed using:
 
 **Abhinaya Bolishetti**
 GitHub: [https://github.com/Abhinaya-Bolishetti](https://github.com/Abhinaya-Bolishetti)
-
-````
-
----
-
-## ✅ How to add this README to GitHub
-
-### Option A (Directly on GitHub – easiest)
-1. Open your repo:  
-   👉 https://github.com/Abhinaya-Bolishetti/CTF  
-2. Click **Add file → Create new file**  
-3. File name: `README.md`  
-4. Paste the content above  
-5. Click **Commit changes**
-
----
-
-### Option B (From your PC)
-```bash
-cd C:\ctf
-notepad README.md
-````
-
-Paste the content → Save → then:
 
 ```bash
 git add README.md
